@@ -27,8 +27,7 @@ Vous allez mettre en pratique ces notions à travers **3 exercices progressifs**
    - L’énoncé complet du TP est déposé sur **GitHub**.
 
 2. **Création de votre espace de travail**
-   - Acceptez l’assignement sur GitHub Classroom.
-   - Clonez ensuite votre dépôt individuel.
+   - Forker ce repo, puis clonez votre dépôt individuel.
 
 3. **Réalisation**
    - Complétez les fichiers **`index.html`** et **`script.js`** dans **chaque dossier d’exercice**.
