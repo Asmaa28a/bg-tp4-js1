@@ -1,6 +1,6 @@
 
-// 1. Représentation d'un produit
-function exercice1() {
+// 1. Representation d'un produit
+function f1() {
     const produit = {
         nom: "produit",
         prix: 4500,
@@ -12,7 +12,7 @@ function exercice1() {
 
 
 // 2. Catalogue et filtrage des prix
-function exercice2() {
+function f2() {
 
     const catalogue = [
         {
@@ -53,7 +53,7 @@ function exercice2() {
 
 
 // 3. Totaux avec reduce
-function exercice3() {
+function f3() {
 
     const catalogue = [
         { 
@@ -97,7 +97,7 @@ function calculerValeurStock(p) {
     return p.prix * p.quantite;
 }
 
-function exercice4() {
+function f4() {
 
     const catalogue = [
         { 
@@ -137,7 +137,7 @@ function traiterCatalogue(liste, callback) {
     liste.forEach(produit => callback(produit));
 }
 
-function exercice5() {
+function f5() {
 
     const catalogue = [
         {
